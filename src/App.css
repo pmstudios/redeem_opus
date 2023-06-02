@@ -6,6 +6,8 @@ h1 {
   font-family: Roboto;
   font-size: 40px;
   font-weight: 700;
+  line-height: 0.46;
+  letter-spacing: -0.24px
 }
 
 h2 {
@@ -46,7 +48,7 @@ a {
 
 .top img {
   width: auto;
-  height: 150px;
+  height: 171px;
   margin-top: 20px;
 }
 
@@ -146,7 +148,7 @@ a {
   height: 60px;
   margin: auto;
   border-radius: 10px;
-  background-color: #77bc22;
+  background-color: #016F9B;
   display: flex;
   cursor: pointer;
 }

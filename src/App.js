@@ -89,13 +89,14 @@ class App extends Component {
 					<div className="top center">
 						<img src={'./images/Logo_opus.png'} alt='opus' />
 						<div className="title">
-							<h1>OPUS Bonus Digital Soundtrack Download</h1>
+							<h1>OPUS: Echo of Starsong</h1>
+							<h1>Bonus Digital Soundtrack Download</h1>
 						</div>
 					</div>
 					<div className="middle center">
 						<div className="text01">
-							Thank you for purchasing OPUS. This is the Downloadable Soundtrack page to redeem your bonus<br/> 
-							voucher included with first print copies for PlayStation 4 and/or Nintendo Switch.
+							Thank you for purchasing OPUS: Echo of Starsong. This is the Downloadable Soundtrack page to<br/> 
+							redeem your bonus voucher included with first print copies for Nintendo Switch.
 						</div>
 						<div className="text02">
 							**This is not to purchase the actual game. Please do not purchase this item as it is non-refundable<br/> 

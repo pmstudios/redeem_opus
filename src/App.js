@@ -57,7 +57,7 @@ class App extends Component {
 
 	renderDownloadLink = () => (
 		<div className="redeem">
-			<p>Google Drive Link - <a href='https://drive.google.com/file/d/1m8HpinMzddtdEbFgmh396o02VUFdvkNn/view?usp=sharing' onClick={this.handleLink} target='_blank'>Download</a></p>
+			<p>Download Link - <a href='https://www.dropbox.com/scl/fo/j414mc629mjypl34dilqa/h?rlkey=fgzvxkplzs10pxv1mxmc86g3j&dl=0' onClick={this.handleLink} target='_blank'>Download</a></p>
 		</div>
 	)
 	
